@@ -1,5 +1,7 @@
-# Reddit_Bot
+# Reddit Bot
 To start the reddit bot you should run the Main.py File.
+
+
 This Reddit bot performs 2 things:
 
 **First** :You give the bot a sentence to search for and a reply for this sentence if it founds it.
